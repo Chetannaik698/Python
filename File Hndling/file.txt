@@ -1,0 +1,3 @@
+2 primary file types
+ 1-text files(.txt, .csv)
+ 2-binary files(non text, .png, .jpg, .pdf, mp3)

@@ -1,0 +1,11 @@
+top to bottom
+
+control statement 
+conditional => if elif else etc
+for while else suite
+nested
+infinite loop
+pass
+continue
+break
+assert return

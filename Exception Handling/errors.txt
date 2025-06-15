@@ -1,0 +1,27 @@
+what are errors?
+mistakes done while running program
+
+a-compile time errors
+b-runtime errors
+c-logical errors
+
+errors in software => bugs
+solving is calles => debugging
+
+exception handling
+
+exception -> one type of error
+1-start running
+2-warning signs
+3-catch and handle, prgram crash
+
+exception-handling
+1-zero division
+2-100 line
+10-20 line > errr
+
+------------
+try-except
+try- code error
+except 
+finally -> it will run mendatorily

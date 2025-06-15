@@ -1,0 +1,4 @@
+1-immutable
+2-hetrogenous
+3- list []
+tuple ()
